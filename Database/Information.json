@@ -1,0 +1,20 @@
+{
+    "BotToken": "",
+    "ClientID":"",
+
+    "BotName":"ARK: SE",
+    "BotNameLink":"https://discord.gg/GwJKw7KP9J",
+    "BotIcon":"https://api.euphoriadevelopment.uk/images/Master%20Controller.png",
+    "BotActivity":"ARK: Survival Evolved",
+    "EmbedColour":"0xDB033F",
+    "PCEmbedColour":"0x206694",
+    "PSEmbedColour":"0x3498DB",
+    "XBOXEmbedColour":"0x2ECC71",
+
+    "InviteLink":"https://discord.com/api/oauth2/authorize?client_id=846029909726068767&permissions=8&scope=bot%20applications.commands",
+    "SupportDiscord":"https://discord.gg/GwJKw7KP9J",
+    "OwnerID":"790560304391258172",
+    "DeveloperID":"790560304391258172",
+
+    "Version":"6.3.1"
+}

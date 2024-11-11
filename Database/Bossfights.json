@@ -1,0 +1,509 @@
+[
+   {"Name":"Broodmother",
+       "Requirements":{
+          "Gamma":"\nClever Artifact \nHunter Artifact \nMassive Artifact",
+          "Beta":"\nClever Artifact \nHunter Artifact \nMassive Artifact \n5 Argentavis Talons \n5 Sarcosuchus Skins \n5 Sauropod Vertebra \n5 Titanoboa Venom",
+          "Alpha":"\nClever Artifact \nHunter Artifact \nMassive Artifact \n10 Argentavis Talons \n10 Sarcosuchus Skins \n10 Sauropod Vertebra \n10 Titanoboa Venom"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Foundation \nTek Replicator \nTek Triangle Ceiling \nTek Triangle Foundation \nTek Triangle Roof",
+          "Beta":"\nTek Foundation \nTek Replicator \nTek Triangle Ceiling \nTek Triangle Foundation \nTek Triangle Roof \nTek Sloped Roof \nTek Sloped Wall Left \nTek Sloped Wall Right \nTek Boots \nTek Catwalk \nTek Ceiling \nTek Fence Foundation \nTek Ladder \nTek Pillar \nTek Railing \nTek Ramp \nTek Staircase \nTek Wall",
+          "Alpha":"\nTek Foundation \nTek Replicator \nTek Triangle Ceiling \nTek Triangle Foundation \nTek Triangle Roof \nTek Sloped Roof \nTek Sloped Wall Left \nTek Sloped Wall Right \nTek Boots \nTek Catwalk \nTek Ceiling \nTek Fence Foundation \nTek Ladder \nTek Pillar \nTek Railing \nTek Ramp \nTek Staircase \nTek Wall \nTek Mosasaur Saddle \nTek Helmet \nTek Turret"
+       },
+       "Rewards":{
+          "Gamma":"\n20 Element",
+          "Beta":"\n56 Element",
+          "Alpha":"\n148 Element"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 30",
+          "Beta":"\nPlayer Level: 50",
+          "Alpha":"\nPlayer Level: 70"
+       }
+    },
+
+    {"Name":"TheCenter",
+       "Requirements":{
+          "Gamma":"\nClever Artifact \nHunter Artifact \nMassive Artifact \nDevourer Artifact \nBrute Artifact \nPack Artifact",
+          "Beta":"\nClever Artifact \nHunter Artifact \nMassive Artifact \nDevourer Artifact \nBrute Artifact \nPack Artifact \n10 Argentavis Talons \n10 Basilosaurus Blubber \n10 Megalania Toxin \n10 Megalodon Teeth \n10 Sauropod Vertebra \n10 Sarcosuchus Skins \n10 Spinosaurus Sails \n10 Thylacoleo Hook-Claws \n10 Titanoboa Venom \n10 Tusoteuthis Tentacles",
+          "Alpha":"\nClever Artifact \nHunter Artifact \nMassive Artifact \nDevourer Artifact \nBrute Artifact \nPack Artifact \n25 Argentavis Talons \n25 Basilosaurus Blubber \n25 Megalania Toxin \n25 Megalodon Teeth \n25 Sauropod Vertebra \n25 Sarcosuchus Skins \n25 Spinosaurus Sails \n25 Thylacoleo Hook-Claws \n25 Titanoboa Venom \n25 Tusoteuthis Tentacles"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Foundation \nTek Replicator \nTek Trapdoor \nTek Windowframe \nTek Gauntlets \nTek Hatchframe \nTek Window",
+          "Beta":"\nTek Foundation \nTek Replicator \nTek Trapdoor \nTek Windowframe \nTek Gauntlets \nTek Hatchframe \nTek Window \nTek Sloped Roof \nTek Dinosaur Gateway \nTek Railing \nTek Sloped Wall Left \nTek Sloped Wall Right \nTek Door \nTek Ramp \nTek Doorframe \nTek Rifle \nTek Boots \nTek Fence Foundation \nTek Staircase \nTek Catwalk \nTek Generator \nTek Trough \nTek Ceiling \nTek Ladder \nTek Wall \nTek Dinosaur Gate \nTek Pillar",
+          "Alpha":"\nTek Foundation \nTek Replicator \nTek Trapdoor \nTek Windowframe \nTek Gauntlets \nTek Hatchframe \nTek Window \nTek Sloped Roof \nTek Dinosaur Gateway \nTek Railing \nTek Sloped Wall Left \nTek Sloped Wall Right \nTek Door \nTek Ramp \nTek Doorframe \nTek Rifle \nTek Boots \nTek Fence Foundation \nTek Staircase \nTek Catwalk \nTek Generator \nTek Trough \nTek Ceiling \nTek Ladder \nTek Wall \nTek Dinosaur Gate \nTek Pillar \nTek Mosasaur Saddle \nTek Grenade \nTek Turret \nTek Rex Saddle \nTek Helmet"
+       },
+       "Rewards":{
+          "Gamma":"\n60 Element",
+          "Beta":"\n166 Element",
+          "Alpha":"\n368 Element"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 70",
+          "Beta":"\nPlayer Level: 80",
+          "Alpha":"\nPlayer Level: 90"
+       }
+    },
+    {"Name":"CrystalIsles",
+       "Requirements":{
+          "Gamma":"\nMassive Artifact \nDevious Artifact \nSkylord Artifact \nImmune Artifact \nBrute Artifact \n10 Primal Crystals \n5 Crystal Talons \n1 Alpha Crystal Talon",
+          "Beta":"\nDepths Artifact \nHunter Artifact \nClever Artifact \nDevourer Artifact \nStrong Artifact \nCunning Artifact \n20 Primal Crystals \n10 Crystal Talons \n3 Alpha Crystal Talon",
+          "Alpha":"\nPack Artifact \nShadows Artifact \nStalker Artifact \nLost Artifact \nGatekeeper Artifact \nCrag Artifact \nDestroyer Artifact \n30 Primal Crystals \n15 Crystal Talons \n5 Alpha Crystal Talon"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Foundation \nTek Gaunlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nTek Window \nTek Windowframe",
+          "Beta":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Foundation \nTek Gaunlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nTek Window \nTek Windowframe \nTek Ceiling \nTek Dedicated Storage \nTek Double Door \nTek Double Doorframe \nTek Fence Foundation \nTek Fence Support \nTek Forcefield \nTek Rifle \nTek Stairs \nTek Transmitter \nTek Wall \nTek Vacuum Compartment",
+          "Alpha":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Foundation \nTek Gaunlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nTek Window \nTek Windowframe \nTek Ceiling \nTek Dedicated Storage \nTek Double Door \nTek Double Doorframe \nTek Fence Foundation \nTek Fence Support \nTek Forcefield \nTek Rifle \nTek Stairs \nTek Transmitter \nTek Wall \nTek Vacuum Compartment \nTek Cloning Chamber \nTek Large Wall \nTek Chestpiece \nTek Teleporter \nTek Vacuum Compartment Moonpool"
+       },
+       "Rewards":{
+          "Gamma":"\n40 Element",
+          "Beta":"\n110 Element",
+          "Alpha":"\n220 Element"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 55",
+          "Beta":"\nPlayer Level:75",
+          "Alpha":"\nPlayer Level: 100"
+       }
+    },
+    {"Name":"DesertTitan",
+       "Requirements":{
+          "Gamma":"\nChaos Artifact \n100 Corrupt Hearts \n10 Fire Talons \n10 Sarcosuchus Skins",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Boots \nTek Dedicated Storage \nTek Generator \nTek Railgun \nTek Replicator \nTek Trough",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Rewards":{
+          "Gamma":"\nNumerous Possible Rewards",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 1",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       }
+    },
+    {"Name":"Dragon",
+       "Requirements":{
+          "Gamma":"\nCunning Artifact \nImmune Artifact \nSkylord Artifact \nStrong Artifact",
+          "Beta":"\nCunning Artifact \nImmune Artifact \nSkylord Artifact \nStrong Artifact \n5 Allosaurus Brains \n5 Basilosaurus Blubber \n1 Giganotosaurus Heart \n5 Tusoteuthis Tentacles \n5 Tyrannosaurus Arms \n5 Yutyrannus Lungs",
+          "Alpha":"\nCunning Artifact \nImmune Artifact \nSkylord Artifact \nStrong Artifact \n10 Allosaurus Brains \n10 Basilosaurus Blubber \n2 Giganotosaurus Hearts \n10 Tusoteuthis Tentacles \n15 Tyrannosaurus Arms \n10 Yutyrannus Lungs"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Behemoth Gate \nTek behemoth Gateway \nTek Megalodon Saddle \nTek Tapejara Saddle \nTek Leggings \nTek Replicator",
+          "Beta":"\nTek Behemoth Gate \nTek behemoth Gateway \nTek Megalodon Saddle \nTek Tapejara Saddle \nTek Leggings \nTek Replicator \nTek Dedicated Storage \nTek Double Door \nTek Double Doorframe \nTek Fence Support \nTek Forcefield \nTek Stairs \nTek Transmitter \nVacuum Compartment",
+          "Alpha":"\nTek Behemoth Gate \nTek behemoth Gateway \nTek Megalodon Saddle \nTek Tapejara Saddle \nTek Leggings \nTek Replicator \nTek Dedicated Storage \nTek Double Door \nTek Double Doorframe \nTek Fence Support \nTek Forcefield \nTek Stairs \nTek Transmitter \nVacuum Compartment \nCloning Chamber \nTek Chestpiece \nTek Teleporter \nVacuum Compartment Moonpool"
+       },
+       "Rewards":{
+          "Gamma":"\n80 Element",
+          "Beta":"\n220 Element",
+          "Alpha":"\n440 Element"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 55",
+          "Beta":"\nPlayer Level: 75",
+          "Alpha":"\nPlayer Level: 100"
+       }
+    },
+    {"Name":"ForestTitan",
+       "Requirements":{
+          "Gamma":"\nGrowth Artifact \n100 Corrupt Hearts \n10 Sauropod Vertebra \n10 Tyrannosaurus Arms",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Rex Saddle \nTek Gauntlets \nTek Leggings \nTek Replicator \nTek Sword \nTek Teleporter",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Rewards":{
+          "Gamma":"\nNumerous Possible Rewards",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 1",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       }
+    },
+    {"Name":"IceTitan",
+       "Requirements":{
+          "Gamma":"\nVoid Artifact \n100 Corrupt Hearts \n10 Spinosaurus Sails \n10 Therizino Claws",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Tapejara Saddle \nTek Chestpiece \nTek Forcefield \nTek Helmet \nTek Replicator \nTek Rifle",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Rewards":{
+          "Gamma":"\nNumerous Possible Rewards",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 1",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       }
+    },
+    {"Name":"KingTitan",
+       "Requirements":{
+          "Gamma":"\nDesert Titan Trophy \nForest Titan Trophy \nIce Titan Trophy \n5 Alpha Tyrannosaur Teeth \n150 Corrupt Hearts \n10 Titanoboa Venom",
+          "Beta":"\nDesert Titan Trophy \nForest Titan Trophy \nIce Titan Trophy \nGamma King Titan Trophy \n10 Alpha Tyrannosaur Teeth \n300 Corrupt Hearts \n20 Titanoboa Venom",
+          "Alpha":"\nDesert Titan Trophy \nForest Titan Trophy \nIce Titan Trophy \nBeta King Titan Trophy \n10 Alpha Tyrannosaur Teeth \n300 Corrupt Hearts \n20 Giganotosaurus Hearts \n20 Spinosaurus Sails \n20 Titanoboa Venom"
+       },
+       "Unlocks":{
+          "Gamma":"\nImplant Tweak \nStory Cutscene",
+          "Beta":"\nImplant Tweak \nStory Cutscene",
+          "Alpha":"\nImplant Tweak \nStory Cutscene"
+       },
+       "Rewards":{
+          "Gamma":"\nN/A",
+          "Beta":"\nN/A",
+          "Alpha":"\nN/A"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 1",
+          "Beta":"\nPlayer Level: 1",
+          "Alpha":"\nPlayer Level: 1"
+       }
+    },
+    {"Name":"LostIsland",
+      "Requirements":{
+         "Gamma":"\nCunning Artifact \nHunter Artifact \nPack Artifact \nSkylord Artifact \n3 Allosaurus Brains \n5 Argentavis Talons \n5 Sarcosuchus Skins \n3 Therizino Claws \n5 Titanoboa Venom",
+         "Beta":"\nHunter Artifact \nBrute Artifact \nImmune Artifact \nStrong Artifact \n2 Basilisk Scales \n5 Megalodon Teeth \n5 Sauropod Vertebra \n2 Spinosaurus Sails \n5 Thylacoleo Claws",
+         "Alpha":"\nHunter Artifact \nDevious Artifact \nDevourer Artifact \nMassive Artifact \n5 Therizino Claws \n2 Basilisk Scales \n10 Megalodon Teeth \n2 Spinosaurus Sails \n1 Giganotosaurus Heart \n10 Megalania Toxin \n2 Tuso Tentacles \n5 Tyrannosaurus Arms \n2 Yutyrannus Lungs"
+      },
+      "Unlocks":{
+         "Gamma":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Generator \nTek Leggings \nTek Light \nTek Replicator \nTek triangle Ceiling \nTek Triangle Foundation \nTek Triangle Roof \nTek Trough",
+         "Beta":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Generator \nTek Leggings \nTek Light \nTek Replicator \nTek triangle Ceiling \nTek Triangle Foundation \nTek Triangle Roof \nTek Trough \nTek Sloped Roof \nTek Sloped Wall Left \nTek Sloped Wall Right \nTek Boots \nTek Dedicated Storage \nTek Forcefield \nTek Pillar \nTek Ramp \nTek Rifle \nTek Staircase \nTek Sword \nTek Transmitter",
+         "Alpha":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Generator \nTek Leggings \nTek Light \nTek Replicator \nTek triangle Ceiling \nTek Triangle Foundation \nTek Triangle Roof \nTek Trough \nTek Sloped Roof \nTek Sloped Wall Left \nTek Sloped Wall Right \nTek Boots \nTek Dedicated Storage \nTek Forcefield \nTek Pillar \nTek Ramp \nTek Rifle \nTek Staircase \nTek Sword \nTek Transmitter \nTek Large Wall \nTek Mosasaur Saddle \nTek Helmet \nTek Shield \nTek Teleporter"
+      },
+      "Rewards":{
+         "Gamma":"\n60 Element",
+         "Beta":"\n165 Element",
+         "Alpha":"\n330 Element"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 55",
+         "Beta":"\nPlayer Level: 75",
+         "Alpha":"\nPlayer Level: 100"
+      }
+   },
+    {"Name":"Manticore",
+       "Requirements":{
+          "Gamma":"\nCrag Artifact \nGatekeeper Artifact \nDestroyer Artifact \n2 Fire Talons \n2 Lightning Talons \n2 Poison Talons",
+          "Beta":"\nCrag Artifact \nGatekeeper Artifact \nDestroyer Artifact \n10 Fire Talons \n10 Lightning Talons \n10 Poison Talons",
+          "Alpha":"\nCrag Artifact \nGatekeeper Artifact \nDestroyer Artifact \n20 Fire Talons \n20 Lightning Talons \n20 Poison Talons"
+       },
+       "Unlocks":{
+          "Gamma":"\nTek Gauntles \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough",
+          "Beta":"\nTek Gauntles \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nTek Tapejara Saddle \nTek Dedicated Storage \nTek Rifle \nTek Shield",
+          "Alpha":"\nTek Gauntles \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nTek Tapejara Saddle \nTek Dedicated Storage \nTek Rifle \nTek Shield \nCloning Chamber \nTek Rex Saddle \nTek Forcefield \nTek Grenade \nTek Teleporter"
+       },
+       "Rewards":{
+          "Gamma":"\n38 Element",
+          "Beta":"\n135 Element",
+          "Alpha":"\n285 Element"
+       },
+       "Levels":{
+          "Gamma":"\nPlayer Level: 55",
+          "Beta":"\nPlayer Level: 70",
+          "Alpha":"\nPlayer Level: 95"
+       }
+    },
+    {"Name":"MasterController",
+      "Requirements":{
+         "Gamma":"\n58 Missions Completed",
+         "Beta":"\n116 Missions Completed",
+         "Alpha":"\n168 Missions Completed"
+      },
+      "Unlocks":{
+         "Gamma":"\n+5 Levels \nImplant Tweak \nStory Cutscene \nTek Claws \nTek Dedicated Storage \nTek Replicator \nTek Hover Skiff",
+         "Beta":"\n+10 Levels \nImplant Tweak \nStory Cutscene \nTek Astrocetus Saddle \nTek Leggings \nTek Shoulder Cannon",
+         "Alpha":"\n+15 Levels \nImplant Tweak \nStory Cutscene \nTek Chestpiece \nCruise Missile"
+      },
+      "Rewards":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      },
+      "Levels":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      }
+   },
+   {"Name":"Megapithecus",
+      "Requirements":{
+         "Gamma":"\nBrute Artifact \nDevourer Artifact \nPack Artifact",
+         "Beta":"\nBrute Artifact \nDevourer Artifact \nPack Artifact \n5 Megalania Toxin \n5 Megalodon Teeth \n5 Spinosaurus Sails \n5 Therizino Claws \n5 Thylacoleo Claws",
+         "Alpha":"\nBrute Artifact \nDevourer Artifact \nPack Artifact \n10 Megalania Toxin \n10 Megalodon Teeth \n10 Spinosaurus Sails \n10 Therizino Claws \n10 Thylacoleo Claws"
+      },
+      "Unlocks":{
+         "Gamma":"\nTek Gauntlets \nTek Hatchframe \nTek Replicator \nTek Trapdoor \nTek Window \nTek Windowframe",
+         "Beta":"\nTek Gauntlets \nTek Hatchframe \nTek Replicator \nTek Trapdoor \nTek Window \nTek Windowframe \nTek Dinosaur Gate \nTek Dinosaur Gateway \nTek Door \nTek Doorframe \nTek Generator \nTek Rifle \nTek Trough",
+         "Alpha":"\nTek Gauntlets \nTek Hatchframe \nTek Replicator \nTek Trapdoor \nTek Window \nTek Windowframe \nTek Dinosaur Gate \nTek Dinosaur Gateway \nTek Door \nTek Doorframe \nTek Generator \nTek Rifle \nTek Trough \nTek Large Wall \nTek Rex Saddle \nTek Grenade"
+      },
+      "Rewards":{
+         "Gamma":"\n40 Element",
+         "Beta":"\n110 Element",
+         "Alpha":"\n220 Element"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 45",
+         "Beta":"\nPlayer Level: 65",
+         "Alpha":"\nPlayer Level: 85"
+      }
+   },
+   {"Name":"Moeder",
+      "Requirements":{
+         "Gamma":"\nStart The Mission At The Mission Dispatcher",
+         "Beta":"\nStart The Mission At The Mission Dispatcher",
+         "Alpha":"\nStart The Mission At The Mission Dispatcher"
+      },
+      "Unlocks":{
+         "Gamma":"\nTek Generator \nTek Sensor \nTek Trough",
+         "Beta":"\nTek Generator \nTek Sensor \nTek Trough \nTek Boots \nTek Gauntlets \nTek Helmet",
+         "Alpha":"\nTek Generator \nTek Sensor \nTek Trough \nTek Boots \nTek Gauntlets \nTek Helmet \nTek Forcefield \nTek Grenade Launcher \nTek Teleporter"
+      },
+      "Rewards":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      },
+      "Levels":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      }
+   },
+   {"Name":"Overseer",
+      "Requirements":{
+         "Gamma":"\nGamma Broodmother Trophy \nGamma Megapithecus Trophy \nGamma Dragon Trophy",
+         "Beta":"\nBeta Broodmother Trophy \nBeta Megapithecus Trophy \nBeta Dragon Trophy \n1 Alpha Raptor Claw \n1 Alpha Carnotaurus Arm \n1 Alpha Tyrannosaur Tooth",
+         "Alpha":"\nAlpha Broodmother Trophy \nAlpha Megapithecus Trophy \nAlpha Dragon Trophy \n1 Alpha Raptor Claw \n1 Alpha Carnotaurus Arm \n1 Alpha Tyrannosaur Tooth \n1 Alpha Megalodon Fin \n1 Alpha Mosasaur Tooth \n1 Alpha Tusoteuthis Eye \n1 Alpha Leedsichthys Blubber"
+      },
+      "Unlocks":{
+         "Gamma":"\n+5 Levels \nImplant Tweak \nStory Cutscene",
+         "Beta":"\n+10 Levels \nImplant Tweak \nStory Cutscene",
+         "Alpha":"\n+15 Levels \nImplant Tweak \nStory Cutscene"
+      },
+      "Rewards":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 60",
+         "Beta":"\nPlayer Level: 80",
+         "Alpha":"\nPlayer Level: 100"
+      }
+   },
+   {"Name":"Ragnarok",
+      "Requirements":{
+         "Gamma":"\nClever Artifact \nCunning Artifact \nDevious Artifact \nDevourer Artifact \nHunter Artifact \nImmune Artifact \nMassive Artifact \nPack Artifact \nSkylord Artifact \nStrong Artifact",
+         "Beta":"\nClever Artifact \nCunning Artifact \nDevious Artifact \nDevourer Artifact \nHunter Artifact \nImmune Artifact \nMassive Artifact \nPack Artifact \nSkylord Artifact \nStrong Artifact \n10 Basilosaurus Blubber \n10 Megalania Toxin \n10 Megalodon Teeth \n10 Sarcosuchus Skins \n10 Sauropod Vertebra \n10 Spinosaurus Sail \n10 Thylacoleo Hook-Claws \n10 Titanoboa Venom \n10 Tusoteuthis Tentacles",
+         "Alpha":"\nClever Artifact \nCunning Artifact \nDevious Artifact \nDevourer Artifact \nHunter Artifact \nImmune Artifact \nMassive Artifact \nPack Artifact \nSkylord Artifact \nStrong Artifact \n25 Basilosaurus Blubber \n25 Megalania Toxin \n25 Megalodon Teeth \n25 Sarcosuchus Skins \n25 Sauropod Vertebra \n25 Spinosaurus Sail \n25 Thylacoleo Hook-Claws \n25 Titanoboa Venom \n25 Tusoteuthis Tentacles"
+      },
+      "Unlocks":{
+         "Gamma":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Megalodon Saddle \nTek Tapejara Saddle \nTek Gaunlets \nTek Generator \nTek Leggings \nTek Light \nTek Replicator \nTek Trough",
+         "Beta":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Megalodon Saddle \nTek Tapejara Saddle \nTek Gaunlets \nTek Generator \nTek Leggings \nTek Light \nTek Replicator \nTek Trough \nTek Forcefield \nTek Rifle \nTek Sword \nTek Transmitter \nTek Vacuum Compartment",
+         "Alpha":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Megalodon Saddle \nTek Tapejara Saddle \nTek Gaunlets \nTek Generator \nTek Leggings \nTek Light \nTek Replicator \nTek Trough \nTek Forcefield \nTek Rifle \nTek Sword \nTek Transmitter \nTek Vacuum Compartment \nTek Cloning Chamber \nTek Rex Saddle \nTek Chestpiece \nTek Grenade \nTek Shield \nTek Teleporter \nTek Vacuum Compartment Moonpool"
+      },
+      "Rewards":{
+         "Gamma":"\n65 Element",
+         "Beta":"\n200 Element",
+         "Alpha":"\n410 Element"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 70",
+         "Beta":"\nPlayer Level: 80",
+         "Alpha":"\nPlayer Level: 90"
+      }
+   },
+   {"Name":"RockwellPrime",
+      "Requirements":{
+         "Gamma":"\nAll Missions Completed on Gamma Difficulty + 6 Mutagen",
+         "Beta":"\nAll Missions Completed on Beta Difficulty + 12 Mutagen",
+         "Alpha":"\nAll Missions Completed on Alpha Difficulty + 24 Mutagen"
+      },
+      "Unlocks":{
+         "Gamma":"\n+5 Levels \nImplant Tweak \nStory Cutscene\nTek Boots \nTek Dedicated Storage \nTek Gauntlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nExo-Mek",
+         "Beta":"\n+10 Levels \nImplant Tweak \nStory Cutscene \nTek Boots \nTek Dedicated Storage \nTek Gauntlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nExo-Mek \nTek Chestpiece \nTek Helmet \nTek Rifle \nTek Shield \nTek Teleporter \nTek Turret",
+         "Alpha":"\n+15 Levels \nImplant Tweak \nStory Cutscene \nTek Boots \nTek Dedicated Storage \nTek Gauntlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Trough \nExo-Mek \nTek Chestpiece \nTek Helmet \nTek Rifle \nTek Shield \nTek Teleporter \nTek Turret"
+      },
+      "Rewards":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      },
+      "Levels":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      }
+   },
+   {"Name":"Rockwell",
+      "Requirements":{
+         "Gamma":"\nDepth Artifact \nShadows Artifact \nStalker Artifact",
+         "Beta":"\nDepth Artifact \nShadows Artifact \nStalker Artifact \n4 Basilisk Scales \n12 Nameless Venom \n2 Reaper Pheromone Glands \n2 Rock Drake Feathers",
+         "Alpha":"\nDepth Artifact \nShadows Artifact \nStalker Artifact \n8 Basilisk Scales \n20 Nameless Venom \n7 Reaper Pheromone Glands \n7 Rock Drake Feathers \n1 Alpha Basilisk Fang \n1 Alpha Karkinos Claw \n1 Alpha Reaper King Barb"
+      },
+      "Unlocks":{
+         "Gamma":"\n+5 Levels \nImplant Tweak \nStory Cutscene \nTek Gauntlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Sleeping Pod \nTek Trough",
+         "Beta":"\n+10 Levels \nImplant Tweak \nStory Cutscene \nTek Gauntlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Sleeping Pod \nTek Trough \nTek Rock Drake Saddle \nTek Boots \nTek Chestpiece \nTek Dedicated Storage \nTek Helmet \nTek Rifle",
+         "Alpha":"\n+15 Levels \nImplant Tweak \nStory Cutscene \nTek Gauntlets \nTek Generator \nTek Leggings \nTek Replicator \nTek Sleeping Pod \nTek Trough \nTek Rock Drake Saddle \nTek Boots \nTek Chestpiece \nTek Dedicated Storage \nTek Helmet \nTek Rifle \nCloning Chamber \nTek Rex Saddle \nTek Forcefield \nTek Railgun \nTek Teleporter"
+      },
+      "Rewards":{
+         "Gamma":"\nN/A",
+         "Beta":"\nN/A",
+         "Alpha":"\nN/A"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 60",
+         "Beta":"\nPlayer Level: 75",
+         "Alpha":"\nPlayer Level: 100"
+      }
+   },
+   {"Name":"Valguero",
+      "Requirements":{
+         "Gamma":"\nDevourer Artifact \nPack Artifact \nSkylord Artifact \n5 Allosaurus Brains \n5 Argentavis Talons \n5 Sarcosuchus Skins \n5 Sauropod Vertebra \n5 Titanoboa Venom",
+         "Beta":"\nCunning Artifact \nImmune Artifact \nStrong Artifact \n10 Allosaurus Brains \n8 Argentavis Talons \n8 Sarcosuchus Skins \n8 Sauropod Vertebra \n5 Titanoboa Venom \n10 Tyrannosaurus Arms",
+         "Alpha":"\nBrute Artifact \nCrag Artifact \nDestroyer Artifact \nGatekeeper Artifact \n15 Allosaurus Brains \n15 Argentavis Talons \n2 Giganotosaurus Hearts \n10 Sarcosuchus Skins \n10 Titanoboa Venom \n15 Tyrannosaurus Arms"
+      },
+      "Unlocks":{
+         "Gamma":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Megalodon Saddled \nTek Tapejara Saddle \nTek Gaunlets \nTek Generator \nTek Hatchframe \nTek Leggings \nTek Replicator \nTek Trapdoor \nTek Trough \nTek Window \nTek Windowframe",
+         "Beta":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Megalodon Saddled \nTek Tapejara Saddle \nTek Gaunlets \nTek Generator \nTek Hatchframe \nTek Leggings \nTek Replicator \nTek Trapdoor \nTek Trough \nTek Window \nTek Windowframe \nTek Dinosaur Gate \nTek Dinosaur Gateway \nTek Door \nTek Doorframe \nTek Forcefield \nTek Rifle \nTek Transmitter \nTek Vacuum Compartment",
+         "Alpha":"\nTek Behemoth Gate \nTek Behemoth Gateway \nTek Megalodon Saddled \nTek Tapejara Saddle \nTek Gaunlets \nTek Generator \nTek Hatchframe \nTek Leggings \nTek Replicator \nTek Trapdoor \nTek Trough \nTek Window \nTek Windowframe \nTek Dinosaur Gate \nTek Dinosaur Gateway \nTek Door \nTek Doorframe \nTek Forcefield \nTek Rifle \nTek Transmitter \nTek Vacuum Compartment \nTek Cloning Chamber \nTek Rex Saddle \nTek Chestpiece \nTek Grenade \nTek Teleporter \nTek Vacuum Compartment Moonpool"
+      },
+      "Rewards":{
+         "Gamma":"\n90 Element",
+         "Beta":"\n255 Element",
+         "Alpha":"\n520 Element"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 30",
+         "Beta":"\nPlayer Level: 30",
+         "Alpha":"\nPlayer Level: 70"
+      }
+   },
+   {"Name":"Fjordur",
+      "Requirements":{
+         "Gamma":"\nGamma Broodmother Trophy \nGamma Dragon Trophy \nGamma Megapithecus Trophy",
+         "Beta":"\nBeta Broodmother Trophy \nBeta Dragon Trophy \nBeta Megapithecus Trophy",
+         "Alpha":"\nAlpha Broodmother Trophy \nAlpha Dragon Trophy \nAlpha Megapithecus Trophy"
+      },
+      "Unlocks":{
+         "Gamma":"\nTek Sword",
+         "Beta":"\nTek Sword",
+         "Alpha":"\nTek Sword"
+      },
+      "Rewards":{
+         "Gamma":"\n100 Element \nCryopod Fenrir (Level 150)",
+         "Beta":"\n250 Element \nCryopod Fenrir (Level 190)",
+         "Alpha":"\n500 Element \nCryopod Fenrir (Level 225)"
+      },
+      "Levels":{
+         "Gamma":"\nPlayer Level: 55",
+         "Beta":"\nPlayer Level: 75",
+         "Alpha":"\nPlayer Level: 100"
+      }
+   },
+   {"Name":"Beyla",
+   "Requirements":{
+      "Gamma":"\n30 Runestones",
+      "Beta":"\n30 Runestones",
+      "Alpha":"\n30 Runestones"
+   },
+   "Unlocks":{
+      "Gamma":"\nN/A",
+      "Beta":"\nN/A",
+      "Alpha":"\nN/A"
+   },
+   "Rewards":{
+      "Gamma":"\n30 Element \nBeyla Relic",
+      "Beta":"\n30 Element \nBeyla Relic",
+      "Alpha":"\n30 Element \nBeyla Relic"
+   },
+   "Levels":{
+      "Gamma":"\nPlayer Level: 50",
+      "Beta":"\nPlayer Level: 50",
+      "Alpha":"\nPlayer Level: 50"
+   }
+   },
+   {"Name":"Hati and Sköll",
+   "Requirements":{
+      "Gamma":"\n30 Runestones",
+      "Beta":"\n30 Runestones",
+      "Alpha":"\n30 Runestones"
+   },
+   "Unlocks":{
+      "Gamma":"\nN/A",
+      "Beta":"\nN/A",
+      "Alpha":"\nN/A"
+   },
+   "Rewards":{
+      "Gamma":"\n30 Element \nHati Relic \nSköll Relic",
+      "Beta":"\n30 Element \nHati Relic \nSköll Relic",
+      "Alpha":"\n30 Element \nHati Relic \nSköll Relic"
+   },
+   "Levels":{
+      "Gamma":"\nPlayer Level: 50",
+      "Beta":"\nPlayer Level: 50",
+      "Alpha":"\nPlayer Level: 50"
+   }
+   },
+   {"Name":"Steinbjörn",
+   "Requirements":{
+      "Gamma":"\n30 Runestones",
+      "Beta":"\n30 Runestones",
+      "Alpha":"\n30 Runestones"
+   },
+   "Unlocks":{
+      "Gamma":"\nN/A",
+      "Beta":"\nN/A",
+      "Alpha":"\nN/A"
+   },
+   "Rewards":{
+      "Gamma":"\n30 Element \nSteinbjörn Relic",
+      "Beta":"\n30 Element \nSteinbjörn Relic",
+      "Alpha":"\n30 Element \nSteinbjörn Relic"
+   },
+   "Levels":{
+      "Gamma":"\nPlayer Level: 50",
+      "Beta":"\nPlayer Level: 50",
+      "Alpha":"\nPlayer Level: 50"
+   }
+   },
+   {"Name":"Fenrisúlfr",
+   "Requirements":{
+      "Gamma":"\nGamma Broodmother Trophy \nGamma Dragon Trophy \nGamma Megapithecus Trophy",
+      "Beta":"\nBeta Broodmother Trophy \nBeta Dragon Trophy \nBeta Megapithecus Trophy",
+      "Alpha":"\nAlpha Broodmother Trophy \nAlpha Dragon Trophy \nAlpha Megapithecus Trophy"
+   },
+   "Unlocks":{
+      "Gamma":"\nTek Sword",
+      "Beta":"\nTek Sword",
+      "Alpha":"\nTek Sword"
+   },
+   "Rewards":{
+      "Gamma":"\n100 Element \nLevel 150 Cryopodded Fenrir",
+      "Beta":"\n250 Element \nLevel 190 Cryopodded Fenrir",
+      "Alpha":"\n500 Element \nLevel 225 Cryopodded Fenrir"
+   },
+   "Levels":{
+      "Gamma":"\nPlayer Level: 55",
+      "Beta":"\nPlayer Level: 75",
+      "Alpha":"\nPlayer Level: 100"
+   }
+   }
+]
